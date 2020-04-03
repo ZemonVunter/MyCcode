@@ -1,0 +1,5 @@
+﻿  test17.c
+E:\MyCode\test17\test17\test17.c(124,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\MyCode\test17\test17\test17.c(129,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\MyCode\test17\test17\test17.c(131): warning C4716: “printFlower”: 必须返回一个值
+  test17.vcxproj -> E:\MyCode\test17\Debug\test17.exe
