@@ -75,7 +75,7 @@ arr是一个整形一维数组。*/
 //	return 0;
 //}
 //
-//求Sn = a + aa + aaa + aaaa + aaaaa的前5项之和，其中a是一个数字，例如：2 + 22 + 222 + 2222 + 22222
+//3求Sn = a + aa + aaa + aaaa + aaaaa的前5项之和，其中a是一个数字，例如：2 + 22 + 222 + 2222 + 22222
 
 //#include<stdio.h>
 //
@@ -175,6 +175,7 @@ arr是一个整形一维数组。*/
 //	}
 //	return 0;
 //}
+//5打印菱形
 #include <stdio.h> 
 //输出格式 
 void print(char ch) {
